@@ -1,0 +1,54 @@
+消融实验3
+数据集BCI III IVa/
+---------------[Net_Name:]EEGNet---------------
+---------------[Seed(0)]---------------
+Cross:(1)
+ Best model number = 77,   0.8928571343421936
+ Best model number = 27,   0.75
+ Best model number = 4,   0.7142857313156128
+ Best model number = 99,   0.8214285969734192
+ Best model number = 77,   0.7142857313156128
+ Best model number = 79,   0.6785714030265808
+ Best model number = 142,   0.8928571343421936
+ Best model number = 3,   0.9285714030265808
+ Best model number = 118,   0.6428571343421936
+ Best model number = 129,   0.7142857313156128
+ Best model number = 128,   0.7857142686843872
+ Best model number = 85,   0.8214285969734192
+ Best model number = 83,   0.7142857313156128
+ Best model number = 69,   0.9642857313156128
+ Best model number = 14,   0.75
+ Best model number = 149,   0.9285714030265808
+ Best model number = 36,   0.6785714030265808
+ Best model number = 54,   0.9642857313156128
+ Best model number = 137,   0.6428571343421936
+ Best model number = 126,   0.8214285969734192
+ Cross Aver ACC = 0.791071429848671
+
+TRANNING OVER!!!
+|Validation AVE ACC = 0.791071429848671|
+|Tranning time = 0.23227431754271188/hours|
+
+[Compute the ave acc of Validation]
+  Task(1) =0.8928571428571429
+  Task(2) =0.75
+  Task(3) =0.7142857142857143
+  Task(4) =0.8214285714285714
+  Task(5) =0.7142857142857143
+  Task(6) =0.6785714285714286
+  Task(7) =0.8928571428571429
+  Task(8) =0.9285714285714286
+  Task(9) =0.6428571428571429
+  Task(10) =0.7142857142857143
+  Task(11) =0.7857142857142857
+  Task(12) =0.8214285714285714
+  Task(13) =0.7142857142857143
+  Task(14) =0.9642857142857143
+  Task(15) =0.75
+  Task(16) =0.9285714285714286
+  Task(17) =0.6785714285714286
+  Task(18) =0.9642857142857143
+  Task(19) =0.6428571428571429
+  Task(20) =0.8214285714285714
+ Validation average acc = 0.7910714285714285
+Seed average acc = 0.7910714285714285

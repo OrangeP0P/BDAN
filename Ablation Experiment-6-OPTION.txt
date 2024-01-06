@@ -1,0 +1,261 @@
+消融实验6
+数据集OpenBMI/LeftPermutatedData/
+---------------[Net_Name:]PSDAN---------------
+---------------[Seed(0)]---------------
+Cross:(1)
+ Best model number = 121,   0.75
+ Best model number = 120,   0.8500000238418579
+ Best model number = 37,   0.7749999761581421
+ Best model number = 126,   0.7749999761581421
+ Best model number = 121,   0.800000011920929
+ Best model number = 98,   0.8500000238418579
+ Best model number = 25,   0.75
+ Best model number = 14,   0.7250000238418579
+ Best model number = 68,   0.800000011920929
+ Best model number = 148,   0.699999988079071
+ Best model number = 118,   0.8500000238418579
+ Best model number = 123,   0.7749999761581421
+ Best model number = 87,   0.699999988079071
+ Best model number = 55,   0.800000011920929
+ Best model number = 118,   0.699999988079071
+ Best model number = 39,   0.699999988079071
+ Best model number = 143,   0.824999988079071
+ Best model number = 146,   0.6499999761581421
+ Best model number = 132,   0.8500000238418579
+ Best model number = 148,   0.7749999761581421
+ Cross Aver ACC = 0.7699999988079071
+
+Cross:(2)
+ Best model number = 100,   0.7250000238418579
+ Best model number = 131,   0.7749999761581421
+ Best model number = 71,   0.75
+ Best model number = 142,   0.8500000238418579
+ Best model number = 137,   0.800000011920929
+ Best model number = 122,   0.7250000238418579
+ Best model number = 142,   0.7749999761581421
+ Best model number = 132,   0.6499999761581421
+ Best model number = 135,   0.8500000238418579
+ Best model number = 65,   0.7749999761581421
+ Best model number = 121,   0.7749999761581421
+ Best model number = 75,   0.875
+ Best model number = 147,   0.699999988079071
+ Best model number = 23,   0.7250000238418579
+ Best model number = 133,   0.75
+ Best model number = 94,   0.7250000238418579
+ Best model number = 142,   0.7749999761581421
+ Best model number = 130,   0.7250000238418579
+ Best model number = 54,   0.8500000238418579
+ Best model number = 17,   0.7250000238418579
+ Cross Aver ACC = 0.7650000035762787
+
+Cross:(3)
+ Best model number = 63,   0.675000011920929
+ Best model number = 111,   0.8500000238418579
+ Best model number = 127,   0.75
+ Best model number = 61,   0.824999988079071
+ Best model number = 134,   0.699999988079071
+ Best model number = 120,   0.7749999761581421
+ Best model number = 21,   0.800000011920929
+ Best model number = 91,   0.7250000238418579
+ Best model number = 89,   0.7749999761581421
+ Best model number = 123,   0.7749999761581421
+ Best model number = 27,   0.800000011920929
+ Best model number = 132,   0.875
+ Best model number = 59,   0.699999988079071
+ Best model number = 124,   0.824999988079071
+ Best model number = 124,   0.675000011920929
+ Best model number = 144,   0.675000011920929
+ Best model number = 131,   0.800000011920929
+ Best model number = 110,   0.7250000238418579
+ Best model number = 132,   0.8999999761581421
+ Best model number = 20,   0.699999988079071
+ Cross Aver ACC = 0.7662499994039536
+
+Cross:(4)
+ Best model number = 146,   0.7250000238418579
+ Best model number = 57,   0.9750000238418579
+ Best model number = 147,   0.7250000238418579
+ Best model number = 108,   0.800000011920929
+ Best model number = 127,   0.7250000238418579
+ Best model number = 38,   0.7749999761581421
+ Best model number = 90,   0.7749999761581421
+ Best model number = 147,   0.7749999761581421
+ Best model number = 119,   0.7749999761581421
+ Best model number = 138,   0.800000011920929
+ Best model number = 22,   0.7250000238418579
+ Best model number = 37,   0.800000011920929
+ Best model number = 133,   0.699999988079071
+ Best model number = 95,   0.75
+ Best model number = 97,   0.75
+ Best model number = 34,   0.699999988079071
+ Best model number = 105,   0.75
+ Best model number = 41,   0.7749999761581421
+ Best model number = 104,   0.925000011920929
+ Best model number = 123,   0.75
+ Cross Aver ACC = 0.7737500011920929
+
+Cross:(5)
+ Best model number = 11,   0.675000011920929
+ Best model number = 34,   0.875
+ Best model number = 84,   0.6499999761581421
+ Best model number = 67,   0.7749999761581421
+ Best model number = 125,   0.7250000238418579
+ Best model number = 68,   0.625
+ Best model number = 126,   0.7250000238418579
+ Best model number = 79,   0.675000011920929
+ Best model number = 85,   0.7749999761581421
+ Best model number = 67,   0.7749999761581421
+ Best model number = 104,   0.7250000238418579
+ Best model number = 116,   0.800000011920929
+ Best model number = 34,   0.675000011920929
+ Best model number = 126,   0.7250000238418579
+ Best model number = 0,   0.7250000238418579
+ Best model number = 59,   0.675000011920929
+ Best model number = 125,   0.7749999761581421
+ Best model number = 135,   0.6499999761581421
+ Best model number = 109,   0.800000011920929
+ Best model number = 74,   0.7250000238418579
+ Cross Aver ACC = 0.7275000035762786
+
+Cross:(6)
+ Best model number = 118,   0.75
+ Best model number = 114,   0.949999988079071
+ Best model number = 115,   0.824999988079071
+ Best model number = 80,   0.675000011920929
+ Best model number = 140,   0.800000011920929
+ Best model number = 144,   0.824999988079071
+ Best model number = 20,   0.875
+ Best model number = 89,   0.675000011920929
+ Best model number = 128,   0.824999988079071
+ Best model number = 89,   0.800000011920929
+ Best model number = 106,   0.75
+ Best model number = 118,   0.824999988079071
+ Best model number = 16,   0.7250000238418579
+ Best model number = 144,   0.625
+ Best model number = 112,   0.675000011920929
+ Best model number = 138,   0.6499999761581421
+ Best model number = 130,   0.800000011920929
+ Best model number = 122,   0.800000011920929
+ Best model number = 16,   0.7250000238418579
+ Best model number = 112,   0.824999988079071
+ Cross Aver ACC = 0.7700000017881393
+
+Cross:(7)
+ Best model number = 132,   0.75
+ Best model number = 88,   0.8500000238418579
+ Best model number = 132,   0.699999988079071
+ Best model number = 117,   0.8500000238418579
+ Best model number = 50,   0.75
+ Best model number = 24,   0.824999988079071
+ Best model number = 77,   0.7749999761581421
+ Best model number = 109,   0.824999988079071
+ Best model number = 37,   0.800000011920929
+ Best model number = 63,   0.7250000238418579
+ Best model number = 129,   0.6499999761581421
+ Best model number = 76,   0.8999999761581421
+ Best model number = 129,   0.7250000238418579
+ Best model number = 133,   0.675000011920929
+ Best model number = 92,   0.6499999761581421
+ Best model number = 98,   0.699999988079071
+ Best model number = 51,   0.7749999761581421
+ Best model number = 141,   0.7250000238418579
+ Best model number = 112,   0.8500000238418579
+ Best model number = 148,   0.800000011920929
+ Cross Aver ACC = 0.7650000005960464
+
+Cross:(8)
+ Best model number = 145,   0.75
+ Best model number = 114,   0.875
+ Best model number = 19,   0.75
+ Best model number = 94,   0.7250000238418579
+ Best model number = 115,   0.800000011920929
+ Best model number = 91,   0.800000011920929
+ Best model number = 94,   0.800000011920929
+ Best model number = 139,   0.8500000238418579
+ Best model number = 125,   0.8500000238418579
+ Best model number = 82,   0.8500000238418579
+ Best model number = 6,   0.75
+ Best model number = 120,   0.824999988079071
+ Best model number = 83,   0.75
+ Best model number = 118,   0.675000011920929
+ Best model number = 61,   0.675000011920929
+ Best model number = 87,   0.75
+ Best model number = 128,   0.824999988079071
+ Best model number = 92,   0.75
+ Best model number = 53,   0.949999988079071
+ Best model number = 69,   0.75
+ Cross Aver ACC = 0.7875000059604644
+
+Cross:(9)
+ Best model number = 116,   0.7250000238418579
+ Best model number = 99,   0.8500000238418579
+ Best model number = 125,   0.675000011920929
+ Best model number = 119,   0.75
+ Best model number = 102,   0.7749999761581421
+ Best model number = 148,   0.7250000238418579
+ Best model number = 12,   0.699999988079071
+ Best model number = 1,   0.625
+ Best model number = 58,   0.824999988079071
+ Best model number = 131,   0.7749999761581421
+ Best model number = 43,   0.699999988079071
+ Best model number = 46,   0.7749999761581421
+ Best model number = 124,   0.7250000238418579
+ Best model number = 34,   0.699999988079071
+ Best model number = 104,   0.7250000238418579
+ Best model number = 41,   0.7749999761581421
+ Best model number = 47,   0.7250000238418579
+ Best model number = 100,   0.6000000238418579
+ Best model number = 119,   0.875
+ Best model number = 46,   0.675000011920929
+ Cross Aver ACC = 0.7350000023841858
+
+Cross:(10)
+ Best model number = 28,   0.675000011920929
+ Best model number = 97,   0.8500000238418579
+ Best model number = 107,   0.800000011920929
+ Best model number = 51,   0.800000011920929
+ Best model number = 137,   0.7749999761581421
+ Best model number = 147,   0.7250000238418579
+ Best model number = 22,   0.824999988079071
+ Best model number = 92,   0.75
+ Best model number = 42,   0.8999999761581421
+ Best model number = 118,   0.7250000238418579
+ Best model number = 124,   0.800000011920929
+ Best model number = 59,   0.824999988079071
+ Best model number = 19,   0.6499999761581421
+ Best model number = 130,   0.75
+ Best model number = 125,   0.625
+ Best model number = 8,   0.699999988079071
+ Best model number = 72,   0.7749999761581421
+ Best model number = 135,   0.699999988079071
+ Best model number = 79,   0.8999999761581421
+ Best model number = 12,   0.699999988079071
+ Cross Aver ACC = 0.7624999970197678
+
+TRANNING OVER!!!
+|Validation AVE ACC = 0.7622500014305115|
+|Tranning time = 6.006614364981651/hours|
+
+[Compute the ave acc of Validation]
+  Task(1) =0.72
+  Task(2) =0.87
+  Task(3) =0.74
+  Task(4) =0.7825
+  Task(5) =0.765
+  Task(6) =0.765
+  Task(7) =0.78
+  Task(8) =0.7275
+  Task(9) =0.8175
+  Task(10) =0.77
+  Task(11) =0.7525
+  Task(12) =0.8275
+  Task(13) =0.705
+  Task(14) =0.725
+  Task(15) =0.695
+  Task(16) =0.705
+  Task(17) =0.7825
+  Task(18) =0.71
+  Task(19) =0.8625
+  Task(20) =0.7425
+ Validation average acc = 0.76225
+Seed average acc = 0.76225

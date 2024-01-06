@@ -1,0 +1,8 @@
+消融实验5
+数据集BCI III IVa/
+---------------[Net_Name:]TEGDAN_5---------------
+---------------[Seed(0)]---------------
+Cross:(1)
+ Best model number = 37,   0.8928571343421936
+ Best model number = 64,   0.75
+ Best model number = 135,   0.8928571343421936

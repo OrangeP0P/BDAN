@@ -1,0 +1,12 @@
+消融实验4
+数据集BCI IV 2a/
+---------------[Net_Name:]TEGDAN_4---------------
+---------------[Seed(0)]---------------
+Cross:(1)
+ Best model number = 133,   0.4642857015132904
+ Best model number = 156,   0.6785714030265808
+ Best model number = 5,   0.6071428656578064
+ Best model number = 132,   0.4642857015132904
+ Best model number = 314,   0.5
+ Best model number = 421,   0.4642857015132904
+ Best model number = 459,   0.6071428656578064
